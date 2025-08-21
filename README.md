@@ -1,4 +1,4 @@
-# automacoes-tj
+# Automação Tribunal de Justiça - Gestão de Sistemas e Chamados
 Automação para otimização do processo de renovação de sistemas no Sentinela e gestão de chamados no GLPI no Tribunal de Justiça.
 As ferramentas agilizam tarefas repetitivas, aumentando a eficiência do setor e reduzindo o tempo gasto em processos manuais.
 
